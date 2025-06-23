@@ -1,0 +1,8 @@
+{
+  "name": "vercel-proxy",
+  "version": "1.0.0",
+  "main": "index.js",
+  "dependencies": {
+    "unblocker": "^2.1.0"
+  }
+}
